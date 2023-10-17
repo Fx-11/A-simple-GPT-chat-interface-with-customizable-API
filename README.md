@@ -1,5 +1,6 @@
 # A simple GPT chat interface with customizable API
 这只是作为一个个人学习中小项目的记录，但该有的功能基本较完善，所以便想着上传到GitHub
+
 chat.py为源码文件
 如果想使用的话下载以后可以打开chat.exe直接运行，但同时需要让fileConfig.json文件与程序在同一个文件夹下
 fileConfig文件是作为程序的配置文件使用
